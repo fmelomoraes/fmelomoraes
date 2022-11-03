@@ -5,8 +5,6 @@
  <div>
   <img align="center" alt="fab-Js" height="150" src="https://user-images.githubusercontent.com/90139746/199669643-f3d36512-24d0-42ae-a109-d81fe793bc98.png">
  </div>
-  
-# Olá! Sou o Fabiano Moraes 👋
 
 ##
 </div>

@@ -1,22 +1,9 @@
 
-<h1 align="center">Olá 👋, Eu sou o Fabiano Moraes</h1>
+Sou um profissional dinâmico e em constante evolução, apaixonado por tecnologia e otimização de processos. Atualmente, estou expandindo meu conhecimento em Java, Python, SQL, Business Intelligence (BI), ETL e Inteligência Artificial para criar soluções inovadoras que automatizam tarefas, otimizam o desempenho e impulsionam a produtividade das empresas.
 
-<h3 align="center">Apaixonado por Tecnologia</h3>
-<br>
-- 🌱 Atualmente estou aprendendo **GoLang, SQL, Infraestrutura**
+Estou também estudando inglês na Rockfeller, o que fortalece minha capacidade de comunicação em um ambiente global. Minha habilidade em entender as necessidades de negócios me permite desenvolver estratégias eficazes que promovem o sucesso organizacional.
 
-- 💬 Me pergunte sobre **SQL, GoLang, Infraestrutura, Excel, Python**
+Sou proativo, colaborativo e sempre em busca de novos desafios e tecnologias. Comprometido com o aprendizado contínuo, estou preparado para contribuir significativamente para o sucesso das equipes e projetos em que estou envolvido.
 
-- 📫 Você me encontra **progr.fabianomoraes@gmail.com**
 
-- Minhas esperiências [https://www.linkedin.com/in/devfabianomoraes/](https://www.linkedin.com/in/devfabianomoraes/)
-
-<br>
-<br>
- 
- </div>
-  <div align="center">
-    <a href="https://github.com/fmelomoraes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmelomoraes&layout=compact&langs_count=7&theme=dark"/>
-  </div>
 

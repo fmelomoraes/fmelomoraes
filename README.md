@@ -16,8 +16,3 @@ Estou também estudando inglês na **Rockfeller**, o que fortalece minha capacid
 ## Objetivo
 
 Comprometido com o aprendizado contínuo, estou preparado para contribuir significativamente para o sucesso das equipes e projetos em que estou envolvido.
-
----
-
-Estou sempre em busca de novos desafios e tecnologias. Vamos colaborar!
-```

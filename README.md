@@ -1,21 +1,22 @@
+Claro! Vou adicionar as considerações sugeridas ao texto original, criando um perfil mais robusto e atraente:
+
+---
 
 # Sobre Mim
 
-Sou um profissional dinâmico e em constante evolução, apaixonado por tecnologia e otimização de processos. Atualmente, estou expandindo meu conhecimento em **Java**, **Python**, **SQL**, **Business Intelligence (BI)**, **ETL** e **Inteligência Artificial** para criar soluções inovadoras que otimizam o desempenho e impulsionam a produtividade das empresas.
+Sou um profissional dinâmico e em constante evolução, com uma paixão intensa por tecnologia e otimização de processos. Estou comprometido em expandir meu conhecimento em **Java**, **Python**, **SQL**, **Business Intelligence (BI)**, **ETL** e **Inteligência Artificial**, a fim de desenvolver soluções inovadoras que impulsionem a produtividade e o desempenho organizacional.
 
 ## Educação
 
-Estou também estudando inglês na **Rockfeller**, o que fortalece minha capacidade de comunicação em um ambiente global.
+Atualmente, estou aprimorando minhas habilidades de comunicação global através do estudo da língua inglesa na **Rockfeller**, o que me permite colaborar de forma eficaz em ambientes multiculturais.
 
 ## Habilidades
 
-- Compreensão das necessidades de negócios
-- Desenvolvimento de estratégias eficazes
-- Proatividade e colaboração
-- Aprendizado contínuo
+- **Visão Estratégica**: Capacidade de entender profundamente as necessidades de negócios e desenvolver estratégias eficazes para atendê-las.
+- **Iniciativa e Colaboração**: Proatividade em liderar e colaborar em equipes, promovendo um ambiente de trabalho produtivo e inovador.
+- **Aprendizado Contínuo**: Compromisso com o desenvolvimento pessoal e profissional contínuo, adaptando-se rapidamente às novas tecnologias e metodologias.
+
 
 ## Objetivo
 
-Comprometido com o aprendizado contínuo, estou preparado para contribuir significativamente para o sucesso das equipes e projetos em que estou envolvido.
-
-Obs.: Iniciando os treinamentos e o upload de códigos nesta data: 06/02/2025.
+Estou dedicado ao aprendizado contínuo e preparado para contribuir de maneira significativa para o sucesso das equipes e projetos dos quais faço parte, trazendo inovação e eficiência. Minhas metas de carreira incluem assumir posições de liderança em projetos de tecnologia que desafiem e expandam minhas habilidades.

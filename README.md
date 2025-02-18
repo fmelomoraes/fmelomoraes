@@ -1,7 +1,3 @@
-Claro! Vou adicionar as considerações sugeridas ao texto original, criando um perfil mais robusto e atraente:
-
----
-
 # Sobre Mim
 
 Sou um profissional dinâmico e em constante evolução, com uma paixão intensa por tecnologia e otimização de processos. Estou comprometido em expandir meu conhecimento em **Java**, **Python**, **SQL**, **Business Intelligence (BI)**, **ETL** e **Inteligência Artificial**, a fim de desenvolver soluções inovadoras que impulsionem a produtividade e o desempenho organizacional.
